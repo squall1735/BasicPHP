@@ -26,5 +26,5 @@
   echo "<br />sexf: ";
   echo $sexf;
 
-  echo "<br />$price";
+  echo "<br />$price";1
  ?>
